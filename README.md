@@ -1,4 +1,4 @@
-### Olá! Guilherme aqui 👋
+### Olá! Guilherme aqui 88 👋
 
 - 🔭 Cursando o 4º período de Engenharia da Computação na PUC-GO
 - 🌱 Estudando C++ e Phyton
